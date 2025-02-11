@@ -61,5 +61,5 @@ We applied classification models to predict loan default:
 - Deploy as a web-based credit risk scoring tool.
 
 ### Author
-Your Name | [LinkedIn](https://www.linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername)
+Nail Saidazim | [LinkedIn](https://www.linkedin.com/in/saydazimnail/) | [GitHub](https://github.com/Nayil97)
 
