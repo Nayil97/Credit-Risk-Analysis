@@ -1,5 +1,4 @@
 # Credit-Risk-Analysis
-# Credit Risk Analysis
 
 ## Project Overview
 This project focuses on credit risk to help banks make informed lending decisions. Using a real-world dataset, we apply data analysis and machine learning techniques to predict the likelihood of loan defaults.
